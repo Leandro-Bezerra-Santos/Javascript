@@ -10,3 +10,5 @@
 - [  ]  Objetos
 - [  ]  Array
 - [  ]  Typescript
+
+[documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
