@@ -11,4 +11,4 @@
 - [  ]  Array
 - [  ]  Typescript
 
-[documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+  [documentation Javacript]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
