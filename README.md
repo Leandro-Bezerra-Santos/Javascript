@@ -11,4 +11,8 @@
 - [  ]  Laços de repetição
 - [  ]  Typescript
 
+<<<<<<< HEAD
 [documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+=======
+  [documentation Javacript]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+>>>>>>> d1c3039d56790742575e381c7c9078f4d1ca2359
