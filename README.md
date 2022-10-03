@@ -2,13 +2,13 @@
 <p>Aqui você encontrar uma sequência de estudos básico de <b style="color:yellow;">javascript</b>!!</p>
 
 - [ X ]  Variáveis & Constantes
-- [ X ] Tipos de Dados
-- [  ]  Operações
-- [  ]  Eventos
-- [  ]  Laços Condicionais
+- [ X ]  Tipos de Dados
+- [ X ]  Objetos
+- [ X ]  Array
+- [  ]  Funções
+- [  ]  Manipulação de Dados
+- [  ]  Operadores
 - [  ]  Laços de repetição
-- [  ]  Objetos
-- [  ]  Array
 - [  ]  Typescript
 
 [documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
