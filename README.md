@@ -6,7 +6,7 @@
 - [ X ]  Objetos
 - [ X ]  Array
 - [ X ]  Funções
-- [  ]  Manipulação de Dados
+- [ X ]  Manipulação de Dados
 - [  ]  Operadores
 - [  ]  Laços de repetição
 - [  ]  Typescript
