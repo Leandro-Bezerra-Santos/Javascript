@@ -50,3 +50,50 @@ console.log(palavra.includes("😅"))
 //Criando array com Contrutor
 let arr = new Array('1', 'A', 'C')
 console.log(arr)
+
+//Contar elementos de um array
+console.log([
+  "Aqui aceita qualquer tipo",
+  {type: 'array'},
+  function(){ return 'alô'}
+])
+
+console.log(["1", "2", "3"].length)
+//Acessando e rodando um elemento do array
+console.log([
+  "A",
+  {type: "Hello World"},
+  function() { return "Oi"},
+][2]())
+
+//Transformar uma cadeia de caracteres em elementos de um array
+let phraseArr = "Manipulando array";
+console.log(Array.from(phraseArr))
+
+let techs = ["Html", "Css", "Javascript", "ReactJs"]
+//Adionando um item no fim
+techs.push("NodeJs");
+console.log(techs);
+
+//adicionar no começo
+techs.unshift("SQL")
+console.log(techs);
+
+//Remover do fim
+techs.pop();
+console.log(techs);
+
+//Remover do começo
+techs.shift();
+console.log(techs);
+
+//pegar somente alguns elementos do array
+console.log(techs.slice(1, 4))
+
+//remover 1 ou mais item em qualquer posição do arr
+techs.splice(0,3)
+console.log(techs);
+
+//encontrar a posição de um elemento no array
+let index = techs.indexOf("javascript")
+console.log(index)
