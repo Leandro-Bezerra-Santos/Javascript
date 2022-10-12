@@ -5,7 +5,7 @@
 - [ X ]  Tipos de Dados
 - [ X ]  Objetos
 - [ X ]  Array
-- [  ]  Funções
+- [ X ]  Funções
 - [  ]  Manipulação de Dados
 - [  ]  Operadores
 - [  ]  Laços de repetição
