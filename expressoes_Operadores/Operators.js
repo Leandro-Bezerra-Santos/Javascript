@@ -22,5 +22,37 @@ let pao = true;
 let queijo = true;
 
 // AND &&
+console.log(pao && queijo);
+
 // OR ||
+console.log(pao || queijo)
+
 // NOT !
+console.log(!pao) // Trocando o valor para falso 
+
+//Operador Ternário
+let cafe = true;
+let leite = true;
+
+const niceBreakfast = cafe && leite ? 'Café top' : "Café Ruim!"
+console.log(niceBreakfast)
+
+// Operador de String
+
+//Comparison (Comparação)
+console.log('a' == "a");
+
+//concatenation (Concatenação)
+console.log("lean" + "dro concatenation");
+
+
+// * grouping                      ( )
+// * negação e incremento          ! ++ --
+// * multiplicação e divisão       * /
+// * adição e subtração            + -
+// * relacional                    < <= > >=
+// * igualdade                     == != === !==
+// * AND                           && 
+// * OR                            ||
+// * condicional                   ?:
+// * assignment (atribuição)       = += -= *= %= 
