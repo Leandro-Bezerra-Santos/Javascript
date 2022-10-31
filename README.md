@@ -7,7 +7,7 @@
 - [ X ]  Array
 - [ X ]  Funções
 - [ X ]  Manipulação de Dados
-- [  ]  Operadores
+- [ X  ]  Operadores
 - [  ]  Laços de repetição
 - [  ]  Typescript
 
