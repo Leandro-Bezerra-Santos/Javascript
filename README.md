@@ -7,8 +7,8 @@
 - [ X ]  Array
 - [ X ]  Funções
 - [ X ]  Manipulação de Dados
-- [ X  ]  Operadores
-- [  ]  Laços de repetição
+- [ X ]  Operadores
+- [ X ]  Laços de repetição
 - [  ]  Typescript
 
 [documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
