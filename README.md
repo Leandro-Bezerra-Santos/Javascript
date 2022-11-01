@@ -9,6 +9,7 @@
 - [ X ]  Manipulação de Dados
 - [ X ]  Operadores
 - [ X ]  Laços de repetição
+- [  ]  Manipulando a DOM
 - [  ]  Typescript
 
 [documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
