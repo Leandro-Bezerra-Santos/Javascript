@@ -37,13 +37,13 @@
 ## 🚀 Como executar o projeto
 ```bash
 # Clone este repositório
-$git clone https://github.com/Leandro-Bezerra-Santos/Javascript.git
+$ git clone https://github.com/Leandro-Bezerra-Santos/Javascript.git
 
 # Abra a pasta
-$cd Javascript
+$ cd Javascript
 
 # E execute um arquivo
-$node nome_do_arquivo.js
+$ node nome_do_arquivo.js
 
 ```
 
@@ -83,4 +83,3 @@ Este projeto está sobe a licença <a href="LICENCE">MIT</a>
 [Português BR](./README.md)
 
 
-[documentation]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
