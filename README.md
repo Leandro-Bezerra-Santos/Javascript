@@ -29,6 +29,7 @@
 - [ X ]  Manipulação de Dados
 - [ X ]  Operadores
 - [ X ]  Laços de repetição
+- [  ] Síncrono & Assíncrono
 - [  ]  Manipulando a DOM
 - [  ]  Typescript
 
